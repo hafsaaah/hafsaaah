@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HAFSA C A</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
-- 🔭 I’m currently studying **MCA**
+- 🔭 I’m currently doing **MCA**
 
 - 🌱 I’m currently learning **Bootstrap**
 
