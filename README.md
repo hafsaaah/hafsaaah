@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm HAFSA C A</h1>
-<h3 align="center">A passionate Mern Stack Developer from India</h3>
 
 - 🔭 I’m currently doing **MCA**
-
-- 🌱 I’m currently learning **Bootstrap**
-
+- 
 - 📫 How to reach me **hafsaca23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
