@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HAFSA C A</h1>
 
 - 🔭 I’m currently doing **MCA**
-- 
+
 - 📫 How to reach me **hafsaca23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
